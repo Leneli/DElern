@@ -1,0 +1,175 @@
+{
+	"worte": [
+		[
+			{
+				"de": "eins",
+				"ru": "один"
+			},
+			{
+				"de": "zwei",
+				"ru": "два"
+			},
+			{
+				"de": "drei",
+				"ru": "три"
+			},
+			{
+				"de": "vier",
+				"ru": "четыре"
+			},
+			{
+				"de": "fünf",
+				"ru": "пять"
+			},
+			{
+				"de": "sechs",
+				"ru": "шесть"
+			},
+			{
+				"de": "sieben",
+				"ru": "семь"
+			},
+			{
+				"de": "acht",
+				"ru": "восемь"
+			},
+			{
+				"de": "neun",
+				"ru": "девять"
+			},
+			{
+				"de": "zehn",
+				"ru": "десять"
+			}
+		],
+
+		[
+			{
+				"de": "die Uhr",
+				"ru": "часы"
+			},
+			{
+				"de": "die Armbanduhr",
+				"ru": "наручные часы"
+			},
+			{
+				"de": "der Wecker",
+				"ru": "будильник"
+			},
+			{
+				"de": "die Uhrzeit",
+				"ru": "время"
+			},
+			{
+				"de": "Wie spät ist es?",
+				"ru": "Сколько времени? Который час?"
+			},
+			{
+				"de": "Es ist 10 Uhr / Es ist 10",
+				"ru": "10 часов"
+			},
+			{
+				"de": "Es ist 5 Minuten nach 10",
+				"ru": "5 минут одиннадцатого"
+			},
+			{
+				"de": "Es ist viertel nach 10",
+				"ru": "Четверть одиннадцатого"
+			},
+			{
+				"de": "Es ist 5 Minuten vor halb 11",
+				"ru": "25 минут одиннадцатого (10.25)"
+			},
+			{
+				"de": "Es ist halb 11",
+				"ru": "Половина одиннадцатого"
+			}
+		],
+
+		[
+			{
+				"de": "die medizinische Betreuung",
+				"ru": "медицинское обслуживание"
+			},
+			{
+				"de": "schmerzen",
+				"ru": "болеть"
+			},
+			{
+				"de": "der Schmerz",
+				"ru": "боль"
+			},
+			{
+				"de": "Kopfschmerzen haben",
+				"ru": "иметь головную боль"
+			},
+			{
+				"de": "husten",
+				"ru": "кашлять"
+			},
+			{
+				"de": "der Husten",
+				"ru": "кашель"
+			},
+			{
+				"de": "Husten haben",
+				"ru": "иметь кашель"
+			},
+			{
+				"de": "das Fieber",
+				"ru": "лихорадка, жар"
+			},
+			{
+				"de": "Das Fieber stellte sich ein",
+				"ru": "Появилась температура"
+			},
+			{
+				"de": "das Fieber niederschlagen",
+				"ru": "сбивать температуру"
+			}
+		],
+
+		[
+			{
+				"de": "das Barometer",
+				"ru": "барометр"
+			},
+			{
+				"de": "das Eis",
+				"ru": "лед"
+			},
+			{
+				"de": "das Gestöber",
+				"ru": "метель"
+			},
+			{
+				"de": "das Gewitter",
+				"ru": "гроза"
+			},
+			{
+				"de": "das Thermometer",
+				"ru": "термометр"
+			},
+			{
+				"de": "der Atmosphärendruck",
+				"ru": "атмосферное давление"
+			},
+			{
+				"de": "der Blitz",
+				"ru": "молния"
+			},
+			{
+				"de": "der Donner",
+				"ru": "гром"
+			},
+			{
+				"de": "der Frost",
+				"ru": "мороз"
+			},
+			{
+				"de": "der Hagel",
+				"ru": "град"
+			}
+		]
+	]
+}

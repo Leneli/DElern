@@ -1,0 +1,74 @@
+{
+	"verb": [
+		{
+			"ru": "печь",
+			"Infinitiv": "backen",
+			"Präsens": "bäckt",
+			"Präteritum": "buk",
+			"Partizip II": "gebacken"
+		},
+		{
+			"ru": "приказывать",
+			"Infinitiv": "befehlen",
+			"Präsens": "befiehlt",
+			"Präteritum": "befahl",
+			"Partizip II": "befohlen"
+		},
+		{
+			"ru": "начинать",
+			"Infinitiv": "beginnen",
+			"Präsens": "beginnt",
+			"Präteritum": "begann",
+			"Partizip II": "begonnen"
+		},
+		{
+			"ru": "кусать",
+			"Infinitiv": "beißen",
+			"Präsens": "beißt",
+			"Präteritum": "biß",
+			"Partizip II": "gebissen"
+		},
+		{
+			"ru": "спасать",
+			"Infinitiv": "bergen",
+			"Präsens": "birgt",
+			"Präteritum": "barg",
+			"Partizip II": "geborgen"
+		},
+		{
+			"ru": "лопнуть",
+			"Infinitiv": "bersten",
+			"Präsens": "birst",
+			"Präteritum": "barst",
+			"Partizip II": "geborsten"
+		},
+		{
+			"ru": "гнуть",
+			"Infinitiv": "biegen",
+			"Präsens": "biegt",
+			"Präteritum": "bog",
+			"Partizip II": "gebogen"
+		},
+		{
+			"ru": "предлагать",
+			"Infinitiv": "bieten",
+			"Präsens": "bietet",
+			"Präteritum": "bot",
+			"Partizip II": "geboten"
+		},
+		{
+			"ru": "связывать",
+			"Infinitiv": "binden",
+			"Präsens": "bindet",
+			"Präteritum": "band",
+			"Partizip II": "gebunden"
+		},
+		{
+			"ru": "просить",
+			"Infinitiv": "bitten",
+			"Präsens": "bittet",
+			"Präteritum": "bat",
+			"Partizip II": "gebeten"
+		}
+	]
+}
